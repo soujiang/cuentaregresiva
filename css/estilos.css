@@ -107,7 +107,8 @@ main {
 .redes-sociales .btn-red-social {
 	padding: 15px 0;
 	display: inline-block;
-	min-width: 60px;
+	min-width: 80px;
+	height: 10px;
 	border-radius: 5px;
 	background: #101b7c;
 	color: #fff;
