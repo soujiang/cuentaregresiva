@@ -51,6 +51,11 @@ body {
 .portada .header .mensaje {
 	font-size: 20px;
 	font-weight: 300;
+	display: flex;
+	width:80%;
+	align-items: center;
+	justify-content: center;
+	text-align: justify;
 }
 
 
