@@ -118,7 +118,8 @@ main {
 }
 
 .redes-sociales .btn-red-social:hover {
-	box-shadow: 0px 0px 50px 10px rgba(0,0,0,.15);
+	box-shadow: 0px 0px 50px 10px rgba(3, 42, 86, 0.15);
+	background:#4f5bc5;
 }
 
 .redes-sociales h3 {
