@@ -53,13 +53,6 @@ body {
 	font-weight: 300;
 }
 
-.mensaje p {
-	display: flex;
-	width:80%;
-	flex-direction: row;
-	align-items: center;
-	justify-content: justify;
-}
 
 
 
