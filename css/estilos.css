@@ -37,7 +37,7 @@ body {
 }
 
 .portada .header {
-	margin-bottom: 50px;
+	/*margin-bottom: 50px;*/
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -72,7 +72,7 @@ main {
 #cuenta {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 80px;
+	margin-bottom: 0;
 }
 
 .simply-section {
@@ -106,9 +106,9 @@ main {
 .redes-sociales .btn-red-social {
 	padding: 15px 0;
 	display: inline-block;
-	min-width: 120px;
+	min-width: 80px;
 	border-radius: 5px;
-	background: #FF0000;
+	background: #101b7c;
 	color: #fff;
 	font-size: 30px;
 	margin: 0 20px;
