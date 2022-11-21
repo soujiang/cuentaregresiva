@@ -14,10 +14,10 @@ body {
 
 /* ? ----- PORTADA ----- */
 .portada {
-	width: 100%;
+	width: 80%;
 	background: #EFEFEF;
 
-	min-height: 100vh;
+	min-height: 50vh;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -27,7 +27,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	text-align: center;
+	text-align: justify;
 	transition: .5s ease-out all;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .portada .header .logotipo {
 	font-size: 50px;
-	font-size: 900;
+	/*font-size: 900;*/
 	margin-bottom: 20px;
 }
 
@@ -71,7 +71,7 @@ main {
 #cuenta {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 
 .simply-section {
