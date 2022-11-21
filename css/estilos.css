@@ -105,10 +105,10 @@ main {
 
 /* ? ----- REDES SOCIALES ----- */
 .redes-sociales .btn-red-social {
-	padding: 15px 0;
+	padding: 10px 0;
 	display: inline-block;
 	min-width: 80px;
-	height: 10px;
+	height: 50px;
 	border-radius: 5px;
 	background: #101b7c;
 	color: #fff;
