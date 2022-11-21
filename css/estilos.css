@@ -17,7 +17,7 @@ body {
 	width: 100%;
 	background: #EFEFEF;
 
-	min-height: 50vh;
+	min-height: 100vh;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -36,7 +36,7 @@ body {
 }
 
 .portada .header {
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 .portada .header .mensaje {
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: 300;
 }
 
