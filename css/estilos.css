@@ -57,8 +57,7 @@ body {
 	display: flex;
 	width:80%;
 	align-items: center;
-	justify-content: center;
-	text-align: justify;
+	justify-content: justify;
 }
 
 
